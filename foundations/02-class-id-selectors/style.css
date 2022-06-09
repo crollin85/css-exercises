@@ -1,0 +1,21 @@
+/* style.css */
+
+.base-text {
+    background-color: #FFCCFF;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#big-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.better-text {
+    font-size: 24px;
+}
+
+#big-green {
+    background-color: #99ff99;
+    font-size: 24px;
+    font-weight: bold;
+}
